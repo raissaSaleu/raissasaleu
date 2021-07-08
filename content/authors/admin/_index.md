@@ -1,7 +1,7 @@
 ---
 title: Gertrude Raïssa MBIADOU SALEU
 role: Postdoc in Machine Learning
-avatar_filename: raïssa-mbiadou.jpeg
+avatar_filename: avatar.jpgpng.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

@@ -9,6 +9,7 @@ interests:
   - Time Series and Data Stream analysis
   - Optimization
   - Vehicle Routing Problems
+  - Drone Routing Problems
 social:
   - icon: envelope
     icon_pack: fas

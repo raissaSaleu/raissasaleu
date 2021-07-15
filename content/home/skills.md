@@ -24,6 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Analytics
+- description: 90%
+  icon: python
+  icon_pack: fab
+  name: Python
 
 
 # Uncomment to use emoji icons.

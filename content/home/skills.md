@@ -20,7 +20,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 90%
+- description: 70%
   icon: chart-line
   icon_pack: fas
   name: Analytics
@@ -28,6 +28,10 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description: 80%
+  icon: java
+  icon_pack: fas
+  name: Java 
 
 
 # Uncomment to use emoji icons.

@@ -29,7 +29,7 @@ experience:
     date_start: '2021-05-03'
     date_end: ''
     description: |2-
-    Anomaly detection in time series and data stream in a context of advanced contamination monitoring in clean rooms and mini-environments (field: semiconductor     manufacturing). A project involving the collaboration of the CNRS/LIMOS with Pfeiffer Vacuum France.  
+                Anomaly detection in time series and data stream in a context of advanced contamination monitoring in clean rooms and mini-environments (field: semiconductor                 manufacturing). A project involving the collaboration of the CNRS/LIMOS with Pfeiffer Vacuum France.  
         
   - title: Professor of Semiconductor Physics
     company: University X

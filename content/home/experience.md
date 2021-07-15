@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoc in machine learning
-    company: CNRS/Laboratory of Informatic, Modelling and Optimization of System - LIMOS
+    company: CNRS/LIMOS
     # company_logo: org-CNRS
     location: Aubiere, France
     date_start: '2021-05-03'

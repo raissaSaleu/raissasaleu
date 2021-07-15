@@ -24,14 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Analytics
-- description: 90%
-  icon: python
-  icon_pack: fab
-  name: Python
- - description: 80%
-  icon: java
-  icon_pack: fab
-  name: Java 
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

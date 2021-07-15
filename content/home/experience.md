@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Postdoc in machine learning
     company: CNRS/Laboratory of Informatic, Modelling and Optimization of System - LIMOS
-    company_logo: org-CNRS
+    # company_logo: org-CNRS
     location: Aubiere, France
     date_start: '2021-05-03'
     date_end: ''

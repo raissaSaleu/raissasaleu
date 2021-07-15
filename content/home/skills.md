@@ -28,10 +28,18 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 80%
+- description: 90%
+  icon: code
+  icon_pack: fab
+  name: C/C++   
+- description: 70%
   icon: java
   icon_pack: fab
   name: Java 
+- description: 90%
+  icon: php
+  icon_pack: fab
+  name: PHP
 
 
 # Uncomment to use emoji icons.

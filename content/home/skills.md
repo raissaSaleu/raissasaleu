@@ -30,7 +30,7 @@ feature:
   name: Python
 - description: 90%
   icon: code
-  icon_pack: fab
+  icon_pack: fas
   name: C/C++   
 - description: 70%
   icon: java

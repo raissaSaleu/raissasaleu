@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoc in machine learning
+  - title: Postdoc in Machine Learning
     company: CNRS/LIMOS
     company_url: 'http://www.cnrs.fr/fr/page-daccueil'
     # company_logo: org-CNRS

@@ -28,12 +28,7 @@ experience:
     location: Aubiere, France
     date_start: '2021-05-03'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Anamaly detection in time series and data stream in a context of advanced contamination monitoring in clean rooms and mini-environments (field: semiconductor     manufacturing). It's a project involving the collaboration of the CNRS/LIMOS with Pfeiffer Vacuum France.  
         
   - title: Professor of Semiconductor Physics
     company: University X

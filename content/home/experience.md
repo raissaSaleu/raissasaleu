@@ -24,6 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Postdoc in machine learning
     company: CNRS/LIMOS
+    company_url: 'http://www.cnrs.fr/fr/page-daccueil'
     # company_logo: org-CNRS
     location: Aubiere, France
     date_start: '2021-05-03'
@@ -31,13 +32,13 @@ experience:
     description: |2-
         Anomaly detection in time series and data stream in a context of advanced contamination monitoring in clean rooms and mini-environments (field: semiconductor manufacturing). A project involving the collaboration of the CNRS/LIMOS with Pfeiffer Vacuum France.
    
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: PhD in Operational Research
+    company: University of Clermont Auvergne/ LIMOS
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    # company_logo: org-x
+    location: Aubiere, France
+    date_start: '2016-10-01'
+    date_end: '2021-01-29'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:

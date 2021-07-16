@@ -41,7 +41,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a Posdoc in Machine Learning at CRNS/LIMOS (Laboratory of Computing, Modelling and Optimization of the Systems). My research interests include Machine learning, Time Series and Data Stream analysis, Optimization, Vehicle Routing Problems and Drone Routing Problems.
+I am a Posdoc in Machine Learning at CNRS/LIMOS (Laboratory of Computing, Modelling and Optimization of the Systems). My research interests include Machine learning, Time Series and Data Stream analysis, Optimization, Vehicle Routing Problems and Drone Routing Problems.
 
 I am currently working on anomaly detection in multidimentionnal time series and data stream. My research work is related to an industrial project on advanced contamination monitoring in clean rooms. 
 

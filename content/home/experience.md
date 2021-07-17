@@ -33,8 +33,8 @@ experience:
         Anomaly detection in time series and data stream in a context of advanced contamination monitoring in clean rooms and mini-environments (field: semiconductor manufacturing). A project involving the collaboration of the CNRS/LIMOS with Pfeiffer Vacuum France.
    
   - title: PhD in Operational Research
-    company: University of Clermont Auvergne/ LIMOS
-    company_url: ''
+    company: Clermont Auvergne University/LIMOS
+    company_url: 'https://limos.fr/'
     # company_logo: org-x
     location: Aubiere, France
     date_start: '2016-10-01'

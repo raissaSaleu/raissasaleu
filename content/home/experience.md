@@ -42,6 +42,25 @@ experience:
     description: |2-
          Topic: Optimization of urban deliveries with drones and vehicles in parallel.
     
+   - title: Monitor
+    company: Clermont Auvergne University
+    company_url: 'https://www.uca.fr/'
+    # company_logo: org-x
+    location: Aubiere, France
+    date_start: '2016-10-01'
+    date_end: '2019-04-29'
+    description: |2-
+         Topic: Optimization of urban deliveries with drones and vehicles in parallel.  
+    
+  - title: Data Mining Junior Researcher 
+    company: LIMOS
+    company_url: 'https://limos.fr/'
+    # company_logo: org-x
+    location: Aubiere, France
+    date_start: '2016-03-01'
+    date_end: '2016-07-30'
+    description: |2-
+         Topic: Internship working on Large Scale Time Dependent Graphs (LSTG)
 
 design:
   columns: '2'

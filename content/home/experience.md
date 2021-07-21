@@ -63,5 +63,5 @@ experience:
          Topic: Internship working on Large Scale Time Dependent Graphs (LSTG)
 
 design:
-  columns: '2'
+  columns: '4'
 ---

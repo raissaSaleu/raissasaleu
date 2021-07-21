@@ -41,16 +41,7 @@ experience:
     date_end: '2021-01-29'
     description: |2-
          Topic: Optimization of urban deliveries with drones and vehicles in parallel.
-    
-   - title: Monitor
-    company: Clermont Auvergne University
-    company_url: 'https://www.uca.fr/'
-    location: Aubiere, France
-    date_start: '2016-10-01'
-    date_end: '2019-04-29'
-    description: |2-
-         Topic: Optimization of urban deliveries with drones and vehicles in parallel.  
-    
+        
   - title: Data Mining Junior Researcher 
     company: LIMOS
     company_url: 'https://limos.fr/'

@@ -39,7 +39,9 @@ experience:
     location: Aubiere, France
     date_start: '2016-10-01'
     date_end: '2021-01-29'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+         Topic: Optimization of urban deliveries with drones and vehicles in parallel.
+    
 
 design:
   columns: '2'

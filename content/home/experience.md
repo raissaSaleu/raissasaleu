@@ -45,7 +45,6 @@ experience:
    - title: Monitor
     company: Clermont Auvergne University
     company_url: 'https://www.uca.fr/'
-    # company_logo: org-x
     location: Aubiere, France
     date_start: '2016-10-01'
     date_end: '2019-04-29'
@@ -63,5 +62,5 @@ experience:
          Topic: Internship working on Large Scale Time Dependent Graphs (LSTG)
 
 design:
-  columns: '4'
+  columns: '2'
 ---

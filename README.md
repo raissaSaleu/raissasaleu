@@ -6,7 +6,7 @@
 <br>
 
 ## :sassy_man:  About me
-- 👩‍💻: I am specialized in two main fields: `Machine Learning` and `Operations Research`
+- 👩‍💻 I am specialized in two main fields: `Machine Learning` and `Operations Research`
 - :computer: I am currently working on machine learning algorithms for anomaly detection in time series and data streams
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
 - :nerd_face: Always exited for working on new ML projects

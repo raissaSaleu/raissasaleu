@@ -1,21 +1,15 @@
 <h1 align="center">Hi , I'm Mbiadou Saleu G. Raïssa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  
+<p align="center">  
   <h3 align="center">Machine Learning Engineer | Data Scientist | PhD Computer Science</h3>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine Learning Engineer+Data Scientist+PhD Computer Science&center=true&width=500&height=50"></a>
 </p>
-
 
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :trophy: `ACPC` Finalist 2021
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
-- :nerd_face: Always `learning new things`
+- :technologist: I specialized in two main fields `Machine Learning` and `Operations Research`
+- :computer: I am currently working on machine learning algorithms for anomaly detection in time series and data streams
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :nerd_face: Always exited for working on new ML projects
 
 <br>
 

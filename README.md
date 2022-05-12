@@ -42,7 +42,5 @@
 
 [![](https://img.shields.io/badge/FIND_ME_ON-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/gertrude-ra%C3%AFssa-mbiadou-saleu-82b561a5/)
 
-[![](https://img.shields.io/badge/DROP_A_LINE_AT-My_email-3ABFE6?style=for-the-badge&logo=Minutemailer)](raissasaleu@yahoo.fr)
-
 [![](https://img.shields.io/badge/CHECK_OUT-My_Website-2FCEA0?style=for-the-badge&logo=Skyliner)](https://raissasaleu.netlify.app/)
 -----

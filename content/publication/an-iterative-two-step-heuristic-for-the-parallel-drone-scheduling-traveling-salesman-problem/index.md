@@ -11,6 +11,7 @@ authors:
   - Alain Quilliot
   - Dominique Feillet
 doi: " https://doi.org/10.1002/net.21846"
+publication: Networks, Wiley, 2018, 72 (4), pp.459-474.
 abstract: "A recent evolution in urban logistics involves the usage of drones.
   In this article, we address a heuristic solution of the parallel drone
   scheduling traveling salesman problem, recently introduced by Murray and Chu.

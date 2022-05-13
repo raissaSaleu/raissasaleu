@@ -28,7 +28,10 @@ organizations:
     url: http://www.cnrs.fr/
 education:
   courses:
-    - course: PhD in Operational Research
+    - course: Master2 in Data Science
+      institution: Openclassrooms/CentraleSupelec
+      year: 2022
+    - course: PhD in Operations Research
       institution: LIMOS, Clermont Auvergne University
       year: 2021
     - course: Master in Information System
@@ -45,4 +48,4 @@ I am a Posdoc in Machine Learning at CNRS/LIMOS (Laboratory of Computing, Modell
 
 I am currently working on anomaly detection in multidimentionnal time series and data stream. My research work is related to an industrial project on advanced contamination monitoring in clean rooms. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1iJ9ktBlfOYTKyDhiJ_wKn-axPGITOmo4/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.

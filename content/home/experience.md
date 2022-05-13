@@ -42,7 +42,7 @@ experience:
     description: |2-
          Topic: Optimization of urban deliveries with drones and vehicles in parallel.
         
-  - title: Data Mining Junior Researcher 
+  - title: Machine Learning Junior Researcher 
     company: LIMOS
     company_url: 'https://limos.fr/'
     # company_logo: org-x
@@ -51,6 +51,16 @@ experience:
     date_end: '2016-07-30'
     description: |2-
          Topic: Internship working on Large Scale Time Dependent Graphs (LSTG)
+
+  - title: Natural Language Processing Junior Researcher 
+    company: UY1
+    company_url: 'https://uy1.uninet.cm/'
+    # company_logo: org-x
+    location: Yaoundé, Cameroun
+    date_start: '2014-04-01'
+    date_end: '2014-10-30'
+    description: |2-
+         Implementation of a supervised learning system (based on the exploitation of conceptual graphs) for the automatic classification of tweets according to their semantic orientation (positive, negative, neutral)
 
 design:
   columns: '2'

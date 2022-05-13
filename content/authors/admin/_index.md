@@ -6,6 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Machine learning
+  - Data Science
   - Time Series and Data Stream analysis
   - Optimization
   - Vehicle Routing Problems

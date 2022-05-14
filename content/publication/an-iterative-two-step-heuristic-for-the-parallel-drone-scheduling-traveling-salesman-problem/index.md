@@ -24,7 +24,7 @@ abstract: "A recent evolution in urban logistics involves the usage of drones.
   carried out by dynamic programming. Experiments conducted on benchmark
   instances confirm the efficiency of the approach and give some insights on
   this drone delivery system."
-draft: true
+draft: false
 featured: false
 tags:
   - drone delivery

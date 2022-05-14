@@ -3,7 +3,6 @@ title: Évaluation comparative de méthodes non supervisées pour la détection 
   points anormaux dans les flux de données
 publication_types:
   - "1"
-  - "0"
 authors:
   - Anne Marthe Sophie Ngo Bibinbe
   - Michael Franklin Mbouopda
@@ -19,7 +18,7 @@ abstract: Il existe plusieurs méthodes basées sur des hypothèses variées pou
   les flux de données avec des hypothèses diverses sur des jeux de données aussi
   bien univariés que multivariés (sur lesquels nous avons identifié les
   caractéristiques présentes)
-draft: false
+draft: true
 featured: false
 image:
   filename: featured

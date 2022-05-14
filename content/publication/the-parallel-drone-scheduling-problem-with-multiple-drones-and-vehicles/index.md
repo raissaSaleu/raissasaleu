@@ -2,6 +2,7 @@
 title: The parallel drone scheduling problem with multiple drones and vehicles
 publication_types:
   - "2"
+  - "0"
 authors:
   - Raïssa Mbiadou Saleu
   - Laurent Deroussi

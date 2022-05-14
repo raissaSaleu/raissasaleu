@@ -2,7 +2,6 @@
 title: An iterative two-step heuristic for the parallel drone scheduling
   traveling salesman problem
 publication_types:
-  - "0"
   - "2"
 authors:
   - Raïssa Mbiadou Saleu
@@ -25,7 +24,7 @@ abstract: "A recent evolution in urban logistics involves the usage of drones.
   carried out by dynamic programming. Experiments conducted on benchmark
   instances confirm the efficiency of the approach and give some insights on
   this drone delivery system."
-draft: false
+draft: true
 featured: false
 tags:
   - drone delivery

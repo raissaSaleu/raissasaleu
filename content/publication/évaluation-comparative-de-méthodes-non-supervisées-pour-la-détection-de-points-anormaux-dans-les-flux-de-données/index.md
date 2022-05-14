@@ -3,6 +3,7 @@ title: Évaluation comparative de méthodes non supervisées pour la détection 
   points anormaux dans les flux de données
 publication_types:
   - "1"
+  - "0"
 authors:
   - Anne Marthe Sophie Ngo Bibinbe
   - Michael Franklin Mbouopda

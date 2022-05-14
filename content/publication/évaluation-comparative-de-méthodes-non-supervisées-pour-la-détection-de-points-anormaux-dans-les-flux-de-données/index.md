@@ -18,7 +18,7 @@ abstract: Il existe plusieurs méthodes basées sur des hypothèses variées pou
   les flux de données avec des hypothèses diverses sur des jeux de données aussi
   bien univariés que multivariés (sur lesquels nous avons identifié les
   caractéristiques présentes)
-draft: true
+draft: false
 featured: false
 image:
   filename: featured

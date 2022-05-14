@@ -33,7 +33,7 @@ abstract: Delivery of goods into urban areas constitutes an important issue for
   experimental campaign on instances taken from the CVRPLIB1 library.
   Computational experiments comparing several variants of the hybrid
   metaheuristic give some insights on this drone delivery system.
-draft: true
+draft: false
 featured: false
 tags:
   - RoutingDrone deliveryCity logisticsm-TSPILSDynamic programming

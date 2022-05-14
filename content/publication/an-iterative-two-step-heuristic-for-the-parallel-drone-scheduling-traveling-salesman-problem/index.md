@@ -3,6 +3,7 @@ title: An iterative two-step heuristic for the parallel drone scheduling
   traveling salesman problem
 publication_types:
   - "2"
+  - "0"
 authors:
   - Raïssa Mbiadou Saleu
   - Laurent Deroussi

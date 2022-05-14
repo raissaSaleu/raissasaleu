@@ -1,7 +1,6 @@
 ---
 title: The parallel drone scheduling problem with multiple drones and vehicles
 publication_types:
-  - "0"
   - "2"
 authors:
   - Raïssa Mbiadou Saleu
@@ -38,8 +37,7 @@ draft: true
 featured: false
 tags:
   - RoutingDrone deliveryCity logisticsm-TSPILSDynamic programming
-categories:
-  - jkjkj
+categories: []
 image:
   filename: featured
   focal_point: Smart

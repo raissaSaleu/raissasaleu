@@ -38,6 +38,8 @@ draft: true
 featured: false
 tags:
   - RoutingDrone deliveryCity logisticsm-TSPILSDynamic programming
+categories:
+  - jkjkj
 image:
   filename: featured
   focal_point: Smart

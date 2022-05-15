@@ -9,6 +9,7 @@ authors:
   - Michael Franklin Mbouopda
   - Gertrude Raissa Mbiadou Saleu and Engelbert Mephu Nguifo
 doi: https://editions-rnti.fr/?inprocid=1002772
+publication: in ECG
 abstract: Il existe plusieurs méthodes basées sur des hypothèses variées pour la
   détection d’anomalies dans les flux de données. Le choix d’une méthode est lié
   à ses performances sur des types de données spécifiques. Les flux de données

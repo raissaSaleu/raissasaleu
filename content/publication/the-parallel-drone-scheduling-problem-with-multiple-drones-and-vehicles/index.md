@@ -10,7 +10,7 @@ authors:
   - Alain Quilliot
   - Dominique Feillet
 doi: https://doi.org/10.1016/j.ejor.2021.08.014
-publication: European Journal of Operational Research Volume 300, Issue 2, 16
+publication: In European Journal of Operational Research Volume 300, Issue 2, 16
   July 2022, Pages 571-589
 abstract: Delivery of goods into urban areas constitutes an important issue for
   logistics service providers. One of the most talked-about developments in
@@ -35,7 +35,7 @@ abstract: Delivery of goods into urban areas constitutes an important issue for
   Computational experiments comparing several variants of the hybrid
   metaheuristic give some insights on this drone delivery system.
 draft: false
-featured: false
+featured: true
 tags:
   - RoutingDrone deliveryCity logisticsm-TSPILSDynamic programming
 categories: []

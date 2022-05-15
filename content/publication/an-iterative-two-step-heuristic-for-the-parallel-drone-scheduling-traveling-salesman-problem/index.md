@@ -26,7 +26,7 @@ abstract: "A recent evolution in urban logistics involves the usage of drones.
   instances confirm the efficiency of the approach and give some insights on
   this drone delivery system."
 draft: false
-featured: true
+featured: false
 tags:
   - drone delivery
   - vehicle routing problem

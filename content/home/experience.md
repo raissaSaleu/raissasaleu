@@ -40,9 +40,10 @@ experience:
     date_start: '2016-10-01'
     date_end: '2021-01-29'
     description: |2-
-         Topic: Optimization of urban deliveries with drones and vehicles in parallel.
+         **Topic**: Optimization of urban deliveries with drones and vehicles in parallel.
+         **Keywords** : VRP, urban logistics, drones, heuristics, meta-heuristics, MILP, C++, 
         
-  - title: Machine Learning Junior Researcher 
+  - title: Machine Learning Junior Researcher (Internship)
     company: LIMOS
     company_url: 'https://limos.fr/'
     # company_logo: org-x
@@ -50,9 +51,12 @@ experience:
     date_start: '2016-03-01'
     date_end: '2016-07-30'
     description: |2-
-         Topic: Internship working on Large Scale Time Dependent Graphs (LSTG)
+         **Topic**: Large Scale Time Dependent Graphs (LSTG)
+         Study on large-scale time dependent graphs: representation, storage, mining and processing 
+         **Keywords** : Large Scale Time Dependent Graphs (LSTG), Graph mining 
 
-  - title: Natural Language Processing Junior Researcher 
+
+  - title: Natural Language Processing Junior Researcher (Internship)
     company: UY1
     company_url: 'https://uy1.uninet.cm/'
     # company_logo: org-x
@@ -61,6 +65,8 @@ experience:
     date_end: '2014-10-30'
     description: |2-
          Implementation of a supervised learning system (based on the exploitation of conceptual graphs) for the automatic classification of tweets according to their semantic orientation (positive, negative, neutral)
+          **Keywords** : Sentiment analysis, Natural Language Processing, Conceptual graph, Python, Weka, Twitter, Tweepy
+
 
 design:
   columns: '2'

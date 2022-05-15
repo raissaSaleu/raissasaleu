@@ -7,7 +7,8 @@ publication_types:
 authors:
   - Anne Marthe Sophie Ngo Bibinbe
   - Michael Franklin Mbouopda
-  - Gertrude Raissa Mbiadou Saleu and Engelbert Mephu Nguifo
+  - Gertrude Raissa Mbiadou Saleu
+  - Engelbert Mephu Nguifo
 doi: https://editions-rnti.fr/?inprocid=1002772
 publication: in ECG
 abstract: Il existe plusieurs méthodes basées sur des hypothèses variées pour la

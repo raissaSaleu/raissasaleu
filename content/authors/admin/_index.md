@@ -41,8 +41,10 @@ education:
     - course: " Master in Software Engineering"
       institution: University of Yaoundé 1
       year: 2015
-email: ""
+email: raissasaleu@yahoo.fr
 superuser: true
+user_groups:
+  - LIMOS
 highlight_name: false
 ---
 I am a Posdoc in Machine Learning at CNRS/LIMOS (Laboratory of Computing, Modelling and Optimization of the Systems). My research interests include Machine learning, Time Series and Data Stream analysis, Optimization, Vehicle Routing Problems and Drone Routing Problems.

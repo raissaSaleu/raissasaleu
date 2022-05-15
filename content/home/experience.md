@@ -41,6 +41,7 @@ experience:
     date_end: '2021-01-29'
     description: |2-
          **Topic**: Optimization of urban deliveries with drones and vehicles in parallel.
+         
          **Keywords** : VRP, urban logistics, drones, heuristics, meta-heuristics, MILP, C++, 
         
   - title: Machine Learning Junior Researcher (Internship)
@@ -53,8 +54,20 @@ experience:
     description: |2-
          **Topic**: Large Scale Time Dependent Graphs (LSTG)
          Study on large-scale time dependent graphs: representation, storage, mining and processing 
+         
          **Keywords** : Large Scale Time Dependent Graphs (LSTG), Graph mining 
 
+  - title: Functional Analyst (Internship) 
+    company: ORANGE
+    company_url: 'https://www.orange.cm/'
+    # company_logo: org-x
+    location: Douala, Cameroun
+    date_start: '2015-06-01'
+    date_end: '2015-09-30'
+    description: |2-
+         CRM project 360° view: renewal of the ORANGE Cameroon CRM for a better management of the customer service
+         
+       **Key words** : Requirements gathering, feasibility study, planning, functional specifications writing
 
   - title: Natural Language Processing Junior Researcher (Internship)
     company: UY1
@@ -65,6 +78,7 @@ experience:
     date_end: '2014-10-30'
     description: |2-
          Implementation of a supervised learning system (based on the exploitation of conceptual graphs) for the automatic classification of tweets according to their semantic orientation (positive, negative, neutral)
+         
           **Keywords** : Sentiment analysis, Natural Language Processing, Conceptual graph, Python, Weka, Twitter, Tweepy
 
 

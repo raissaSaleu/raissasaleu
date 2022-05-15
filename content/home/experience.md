@@ -31,6 +31,8 @@ experience:
     date_end: ''
     description: |2-
         Anomaly detection in time series and data stream in a context of advanced contamination monitoring in clean rooms and mini-environments (field: semiconductor manufacturing). A project involving the collaboration of the CNRS/LIMOS with Pfeiffer Vacuum France.
+        
+       **Keywords** : Anomaly detection, Data stream, Python, InfluxDB, Kapacitor, Flask, Chronograf, GitLab
    
   - title: PhD in Operational Research
     company: Clermont Auvergne University/LIMOS
@@ -79,7 +81,7 @@ experience:
     description: |2-
          Implementation of a supervised learning system (based on the exploitation of conceptual graphs) for the automatic classification of tweets according to their semantic orientation (positive, negative, neutral)
          
-          **Keywords** : Sentiment analysis, Natural Language Processing, Conceptual graph, Python, Weka, Twitter, Tweepy
+       **Keywords** : Sentiment analysis, Natural Language Processing, Conceptual graph, Python, Weka, Twitter, Tweepy
 
 
 design:

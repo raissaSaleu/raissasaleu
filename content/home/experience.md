@@ -54,8 +54,7 @@ experience:
     date_start: '2016-03-01'
     date_end: '2016-07-30'
     description: |2-
-         **Topic**: Large Scale Time Dependent Graphs (LSTG)
-         Study on large-scale time dependent graphs: representation, storage, mining and processing 
+         Study on Large-Scale Time Dependent Graphs (LSTG): representation, storage, mining and processing 
          
          **Keywords** : Large Scale Time Dependent Graphs (LSTG), Graph mining 
 

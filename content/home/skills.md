@@ -9,11 +9,11 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 70%
+  - description: 90%
     icon: chart-line
     icon_pack: fas
     name: Analytics
-  - description: 80%
+  - description: 70%
     icon: r-project
     icon_pack: fab
     name: R
@@ -21,7 +21,7 @@ feature:
     icon: code
     icon_pack: fas
     name: C/C++
-  - description: 70%
+  - description: 80%
     icon: java
     icon_pack: fab
     name: Java

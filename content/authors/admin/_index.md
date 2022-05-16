@@ -30,7 +30,7 @@ organizations:
 education:
   courses:
     - course: Master 2 in Data Science
-      institution: Openclassrooms/CentraleSupelec
+      institution: CentraleSupélec/Openclassrooms
       year: 2022
     - course: PhD in Operations Research
       institution: LIMOS, Clermont Auvergne University

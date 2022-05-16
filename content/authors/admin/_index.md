@@ -29,16 +29,16 @@ organizations:
     url: http://www.cnrs.fr/
 education:
   courses:
-    - course: Master2 in Data Science
+    - course: Master 2 in Data Science
       institution: Openclassrooms/CentraleSupelec
       year: 2022
     - course: PhD in Operations Research
       institution: LIMOS, Clermont Auvergne University
       year: 2021
-    - course: Master in Information System
+    - course: Master 2 in Information System
       institution: Clermont Auvergne University
       year: 2016
-    - course: " Master in Software Engineering"
+    - course: " Master 2 in Software Engineering"
       institution: University of Yaoundé 1
       year: 2015
 email: raissasaleu@yahoo.fr

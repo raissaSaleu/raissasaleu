@@ -17,7 +17,7 @@
 
 👉 **Machine Learning** : Scikit-learn, Matplotlib, Scipy, Pandas, Numpy, Seaborn, Plotly, Keras, TensorFlow
 
-👉 **Programming** : Python, C/C++, Java, Javascript, PHP, HTML, CSS, Shell
+👉 **Programming** : Python, C/C++, R, Java, Javascript, PHP, HTML, CSS, Shell
 
 👉 **Databases** : MySQL, Oracle, PostgreSQL, InfluxDB
 

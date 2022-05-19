@@ -51,4 +51,4 @@ I am a Posdoc in Machine Learning at CNRS/LIMOS (Laboratory of Computing, Modell
 
 I am currently working on anomaly detection in multidimentionnal time series and data stream. My research work is related to an industrial project on advanced contamination monitoring in clean rooms. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1WVzXg86D8rvHM5CcgFxlMreiGau_TGHD/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/15-lsoM2aam302mYh8dutCWp0GEoKF6jN/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.

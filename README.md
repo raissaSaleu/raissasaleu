@@ -1,46 +1,53 @@
-<h1 align="center">Hi , I'm Mbiadou Saleu G. Raïssa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Mbiadou Saleu G. Raïssa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">  
-  <h3 align="center">Machine Learning Engineer | Data Scientist | PhD Computer Science</h3>
+  <h3 align="center">Data Scientist | Machine Learning Engineer | PhD in Computer Science</h3>
 </p>
 
 <br>
 
-## :sassy_woman:  About me
-- 👩‍💻 I am specialized in two main fields: `Machine Learning` and `Operations Research`
-- :computer: I am currently working on machine learning algorithms for anomaly detection in time series and data streams
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/15-lsoM2aam302mYh8dutCWp0GEoKF6jN/view?usp=sharing).
-- :nerd_face: Always exited for working on new ML projects
+## 🚀 About Me  
+
+- 👩‍💻 **Expertise in Data Science & Ad-Tech**: Specialized in `Machine Learning`, `Deep Learning`, `Ad-Tech`, and `Operations Research`.  
+- 🌍 **Currently working at Scope3**: Using AI to **optimize digital advertising while reducing its carbon footprint**.  
+- 🔍 **Formerly at Adloox**: Developed solutions for **Ad Fraud Detection, Brand Safety & Suitability, and programmatic advertising optimization**.  
+- 🎓 **PhD in Computer Science (Operations Research)**: Focused on **optimizing urban deliveries with drones & vehicles**.  
+- 📚 **Mentor & Educator**: Former university lecturer, passionate about sharing knowledge in **AI, ML, and data-driven decision-making**.  
+- 🏆 **Certified Data Scientist**: Graduated from **OpenClassrooms x CentraleSupélec (RNCP Level 7)** in 2022.  
+- 🧠 **Always excited to work on innovative AI projects** and explore the intersection of **data science, sustainability, and digital media**.  
 
 <br>
 
-## 🛠️ My Skills
+## 🛠️ My Skills  
 
-👉 **Machine Learning** : Scikit-learn, Matplotlib, Scipy, Pandas, Numpy, Seaborn, Plotly, Keras, TensorFlow
+### 🧑‍💻 **Machine Learning & AI**  
+- Supervised & Unsupervised Learning, Anomaly Detection, Reinforcement Learning, NLP  
+- **Frameworks**: Scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face  
 
-👉 **Programming** : Python, C/C++, R, Java, Javascript, PHP, HTML, CSS, Shell
+### 📊 **Data Science & Big Data**  
+- **Languages**: Python, C++, SQL, R  
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Dash, Streamlit  
+- **Big Data**: Spark, Hadoop, AWS (S3, EC2, IAM, EMR), GCP  
 
-👉 **Databases** : MySQL, Oracle, PostgreSQL, InfluxDB
+### 🎯 **Ad-Tech & Digital Advertising**  
+- Ad Fraud Detection (Botnets, MFA), Brand Safety & Suitability (GARM, IAB)  
+- Pre-bid & Post-bid Filtering, Campaign Optimization, Green Media Products  
 
-👉 **Cloud (Big Data)** : AWS (S3, EC2, IAM, EMR), Spark
+### 📡 **Operations Research & Optimization**  
+- Linear Programming, Heuristics & Meta-heuristics, Logistics, VRP  
+- **Tools**: CPLEX, Gurobi, OR-Tools  
 
-👉 **Dashboard** : Streamlit, Dash, Heroku, Flask   
+### ⚡ **Software & DevOps**  
+- **Cloud & Deployment**: AWS, GCP, Docker, Kubernetes, CI/CD  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Version Control**: Git, GitHub, GitLab  
 
-👉 **Software** : Anaconda (Jupyter Notebook), PuTTy, VSCode
-
-👉 **Operating systems** : Windows, Linux (Ubuntu, Debian)   
-
-👉 **Versioning** : Git, GitHub, GitLab
-
-👉 **Operations Research** : Linear programming, Heuristics and meta-heuristics, logistics, VRP, CPLEX 
-
-👉 **Transversal** : Communication, Autonomy, Adaptability, Proactivity, Open-mindedness, Teamwork
+### 🤝 **Soft Skills**  
+- Communication, Autonomy, Adaptability, Problem-Solving, Teamwork  
 
 <br/>
 
+## 💬 Connect with Me  
 
-## 💬 Connect with me
-
-[![](https://img.shields.io/badge/FIND_ME_ON-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/gertrude-ra%C3%AFssa-mbiadou-saleu-82b561a5/)
-
-[![](https://img.shields.io/badge/CHECK_OUT-My_Website-2FCEA0?style=for-the-badge&logo=Skyliner)](https://raissasaleu.netlify.app/)
------
+[![](https://img.shields.io/badge/FIND_ME_ON-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/gertrude-ra%C3%AFssa-mbiadou-saleu-82b561a5/)  
+[![](https://img.shields.io/badge/CHECK_OUT-My_Website-2FCEA0?style=for-the-badge&logo=Skyliner)](https://raissasaleu.netlify.app/)  
+[![](https://img.shields.io/badge/EXPLORE-My_GitHub-181717?style=for-the-badge&logo=GitHub)](https://github.com/raissaSaleu)  

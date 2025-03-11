@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mbiadou Saleu G. Raïssa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">  
-  <h3 align="center">Data Scientist </h3>
+  <h3 align="center">Data Scientist 👩🏽‍💻 </h3>
 </p>
 
 <br>
